@@ -74,8 +74,7 @@ A full-stack job portal application built with React, Node.js, and MongoDB. Feat
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smitb-job-portal.git
-   cd smitb-job-portal
+   git clone https://github.com/ManishSanghani/Job-Portal
    ```
 
 2. **Install dependencies**
